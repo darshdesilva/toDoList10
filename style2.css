@@ -1,0 +1,82 @@
+.main {
+	margin-top: 2rem;
+}
+
+.header {
+background-size: cover;
+	width: 100%;
+}
+
+
+.heading {
+	text-align: center;
+}
+
+.btn {
+	flex-direction: row;
+}
+
+
+.edit-delete {
+	margin-top: 5rem;
+		
+}
+
+/* .card-deck {
+	display: flex;
+	flex-wrap: wrap;
+	width: 100%;;
+} */
+
+.cards {
+	padding: 0px , 20px;
+    border: 1px solid black;
+    margin: 30px;
+	
+	
+}
+
+.cardDate {
+	color: grey;
+	font-size: 12px;
+	float: right;
+	padding: 5px;
+}
+
+.taskButtons {
+background-color: wheat;
+margin : 0px 5px;
+float : right;
+
+
+}
+
+
+
+.card-footer {
+
+	text-align: right;
+}
+
+
+
+
+/*.taskcard {
+	display: flex;
+}
+*/
+
+/* @media only screen and (min-width: 820px) and (max-width: 830px){
+	.card {
+	 display: flex;
+	flex-grow: 2;
+    flex-shrink: 1;  
+    width: 50%;
+	
+	
+	  } 
+
+
+} */
+
+
